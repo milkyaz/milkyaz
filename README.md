@@ -18,12 +18,9 @@ I am proud that I chose the path of a programmer. I really like writing code and
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning Frontend Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
 
 
 ## 📬 Get in Touch
