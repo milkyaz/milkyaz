@@ -1,6 +1,6 @@
 # Hi, I'm Daniil Zaburunov! 👋
 
-I am proud that I chose the path of a programmer. I really like writing code and creating. I love learning new things and improving. In my free time, I read books
+I am proud that I chose the path of a programmer. I really like writing code and creating. I love learning new things and improving. In my free time, I read books and I go to the gym:)
 
 ![milkyaz's Stats](https://github-readme-stats.vercel.app/api?username=milkyaz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
